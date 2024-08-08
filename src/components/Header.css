@@ -1,0 +1,11 @@
+/* Header.css */
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #007bff;
+}
